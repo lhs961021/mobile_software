@@ -1,0 +1,2 @@
+rootProject.name = "gird_layout"
+include ':app'
