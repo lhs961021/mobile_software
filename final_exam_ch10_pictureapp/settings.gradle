@@ -1,0 +1,2 @@
+rootProject.name = "final_exam_ch10_pictureapp"
+include ':app'

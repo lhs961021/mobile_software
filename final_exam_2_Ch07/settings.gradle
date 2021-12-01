@@ -1,0 +1,2 @@
+rootProject.name = "practice2_ch7_toast_dialog"
+include ':app'
